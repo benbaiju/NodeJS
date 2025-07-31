@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
